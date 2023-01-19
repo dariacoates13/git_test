@@ -1,6 +1,1 @@
 hello hello
-hi hi
-my name is daria
-bye
-blah blah
-something
